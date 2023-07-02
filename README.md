@@ -4,7 +4,7 @@
 - Promoter of clean and idiomatic code.
 - An enthusiastic supporter of open source projects.
 - An speaker at technology conferences who love sharing knowledge with fellow tech enthusiasts.
-- A polyglot of multiple programming languages and an explorer of technologies.
+- A polyglot of multiple programming languages and explorer of new technologies.
 - An curious in constant pursuit of technical mastery.
 
 

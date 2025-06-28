@@ -1,11 +1,11 @@
 # Hi, I am ...
 
-- An experienced programmer from the old school.
-- Promoter of clean and idiomatic code.
-- An enthusiastic supporter of open source projects.
-- An speaker at technology conferences who love sharing knowledge with fellow tech enthusiasts.
-- A polyglot of multiple programming languages and explorer of new technologies.
-- A curious in constant pursuit of technical mastery.
+- A researcher in transition from engineering to science.  
+- Deeply rooted in software engineering, now exploring the theoretical frontiers of artificial intelligence and robotics.  
+- A firm believer in reproducible research, open science, and interdisciplinary collaboration.  
+- Speaker and advocate for bridging the gap between industry and academia.  
+- Fluent in multiple programming languages, now applying them to experimental setups, simulation environments, and data analysis pipelines.  
+- Driven by curiosity and the pursuit of scientific understanding.
 
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/?username=joelibaceta&theme=dark" />
